@@ -62,7 +62,7 @@
 
 ## SE 415 Software-Engineering Laboratory
 
-### [Course outline]()
+### [Course outline](https://github.com/suptaphilip/Software-Engineering/raw/Lab-Summer2019/SE%20416%20Software%20Engineering%20Labratory.pdf)
 
 ### Lecture Sildes
 >[Lab 1]()
