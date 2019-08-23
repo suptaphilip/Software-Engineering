@@ -7,7 +7,8 @@ supta.philip@gmail.com
 ## Relationships in UML
 > It is the messages sent among objects that give a system dynamic behavior, and these are represented in UML through the relationships among classes. There are four kinds of relationships.
 
-   1. Dependency:  A depends on B. This is a very loose relationship. 
+   1. Dependency:  A depends on B. This is a very loose relationship.
+   
    ![dependency](https://github.com/suptaphilip/Software-Engineering/raw/Lab-Summer2019/dependency.png)
     
    2. Association: A sends messages to a B. In programming terms, it means instances of A can call methods of instances of B, for example, if a B is passed to a method of an A.
