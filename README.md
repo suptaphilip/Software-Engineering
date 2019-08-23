@@ -27,13 +27,13 @@
 ## SE 415 Software-Engineering
 
 
-### [Course outline]()
+### [Course outline](https://github.com/suptaphilip/Software-Engineering/raw/Theory-Summer2019/SE%20415%20Software%20Engineering.pdf)
 
 
 
 ### Lecture Sildes
 
->[Introduction]()
+>[Lecture 1 & 2](https://github.com/suptaphilip/Software-Engineering/raw/Theory-Summer2019/SE%20L1.pdf)
 
 
 ### Assignment
@@ -41,7 +41,7 @@
 
 
 ### Books
-> [Book_Alan_Dennis]()
+> [Book_Roger S. Pressman](https://github.com/suptaphilip/Software-Engineering/raw/Theory-Summer2019/Book_Software_E.pdf)
 
 
 
