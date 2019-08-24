@@ -65,7 +65,7 @@
 ### [Course outline](https://github.com/suptaphilip/Software-Engineering/raw/Lab-Summer2019/SE%20416%20Software%20Engineering%20Labratory.pdf)
 
 ### Lecture Sildes
->[Lab 1]()
+>[Lab 1](https://github.com/suptaphilip/Software-Engineering/raw/Lab-Summer2019/SE%20Lab1.pdf)
 
 
 
